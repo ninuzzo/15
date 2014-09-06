@@ -9,7 +9,7 @@
     [14, 10, 12, null]
   ], riga, colonna, numero;
 
-  document.write('<table>');
+  document.write('<table id="gioco_del_15">');
   for (riga = 0; riga < 4; riga++) {
     document.write('<tr>');
     for (colonna = 0; colonna < 4; colonna++) {
