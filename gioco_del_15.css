@@ -1,14 +1,14 @@
-#gioco_del_15 {
-  border-collapse: collapse; border-spacing: 0;
-  background-color: darkgray;
-  border-style: inset;
+#gioco_del_15 button {
+  width: 3em;
+  height: 3em;
 }
 
 #gioco_del_15 td {
   padding: 0;
 }
 
-#gioco_del_15 button {
-  width: 3em;
-  height: 3em;
+#gioco_del_15 {
+  border-collapse: collapse; border-spacing: 0;
+  background-color: darkgray;
+  border-style: inset;
 }
